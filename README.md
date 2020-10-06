@@ -4,8 +4,19 @@ UniPi, Informatica
 Laboratorio di Sistemi Operativi 
 Progetto a.a. 2019-2020
 
-Il testo del progetto è contenuto nel documento specifiche.pdf
+DESCRIPTION
+  programma multithreaded che simula un supermercato. 
+  Le entità principali saranno Clienti, Cassieri e Direttore, ogniuno rappresentato da un thread.
+  Per maggiori informazioni riguardo il testo consultare il file specifiche.pdf
 
-To Install: make
-To Run: make test
-To Unistall: make clean.
+INSTALL
+  make
+
+RUN
+  make test
+  
+UNISTALL
+  make clean
+  
+BUGS
+  il direttore aspetta in attesa attiva utilizzando così un core al 100%.
