@@ -1,0 +1,10 @@
+K 6
+C 50
+E 3
+T 200
+P 100
+T_ELEM 12
+S1 2
+S2 8
+TIMER 100
+LOGFILE log.txt
