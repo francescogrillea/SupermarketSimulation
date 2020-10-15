@@ -19,4 +19,5 @@ UNISTALL
   make clean
   
 BUGS  
-  il direttore aspetta in attesa attiva utilizzando così un core al 100%.
+  il direttore aspetta in attesa attiva utilizzando così un core al 100%.  
+  valutazione del progeto 26/30
