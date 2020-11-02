@@ -18,4 +18,4 @@ RUN
 UNISTALL  
   make clean  
   
-valutazione del progeto 26/30
+Valutazione del progeto 26/30
