@@ -3,10 +3,11 @@
 UniPi- Informatica  
 Laboratorio di Sistemi Operativi  
 Progetto a.a. 2019-2020  
-
+Sviluppato per Linux  
+  
 **DESCRIPTION**  
-  programma multithreaded che simula un supermercato.   
-  Le entità principali sono Clienti, Cassieri e Direttore, ogniuno rappresentato da un thread.  
+  Programma multithreaded che simula un supermercato.   
+  Le entità principali sono thread che rappresentano Clienti, Cassieri e Direttore. Questi devono essere in grado di scambiarsi informazioni concorrentemente.  
   Per maggiori informazioni riguardo il testo consultare il file specifiche.pdf  
 
 **INSTALL**  
@@ -21,4 +22,4 @@ Progetto a.a. 2019-2020
 **ISSUES**  
 Il thread direttore aspetta in attesa attiva utilizzando così un core al 100%  
   
-Valutazione del progeto 26/30
+Valutazione del progeto **26/30**
