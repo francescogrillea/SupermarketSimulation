@@ -1,9 +1,7 @@
 # Supermercato- Progetto di Sistemi Operativi
 
 UniPi- Informatica  
-Laboratorio di Sistemi Operativi  
-Progetto a.a. 2019-2020  
-Sviluppato per Linux  
+Laboratorio di Sistemi Operativi- Progetto a.a. 2019-2020  
 
 Programma multithreaded che simula un supermercato.   
 Le entità principali sono Clienti, Cassieri e Direttore, rappresentati da thread: questi devono essere in grado di scambiarsi informazioni quali, ad esempio, il numero di casse aperte, il numero di clienti all'interno del supermercato ecc e operare in base ai valori passati come prametro.  
