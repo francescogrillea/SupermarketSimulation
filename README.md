@@ -11,15 +11,18 @@ Sviluppato per Linux
   Per maggiori informazioni riguardo il testo consultare il file specifiche.pdf  
 
 ## How to use  
-Install
+**Install**
 ```bash
 make
 ```  
-Run
+**Run**
 ```bash
 make test
 ```
-
+**Unistall**
+```bash
+make clean
+```
 
   
 **ISSUES**  
