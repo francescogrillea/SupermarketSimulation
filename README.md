@@ -11,10 +11,12 @@ Sviluppato per Linux
   Per maggiori informazioni riguardo il testo consultare il file specifiche.pdf  
 
 ## How to use  
-Install: ```bash
+Install
+```bash
 make
 ```  
-Run:```bash
+Run
+```bash
 make test
 ```
 
