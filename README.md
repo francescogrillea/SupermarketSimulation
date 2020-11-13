@@ -26,8 +26,8 @@ make clean
 ```
 
   
-**ISSUES**  
-Il thread direttore aspetta in attesa attiva utilizzando così un core al 100%  
+## Errori  
+Il thread direttore aspetta in attesa attiva utilizzando così un core al 100%.  
   
 ## Valutazione del progeto  
 26/30
