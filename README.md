@@ -13,9 +13,7 @@ Versione semplificata.
 
 ## How to use  
 **Install**
-```bash
-make
-```  
+`make`  
 **Run**
 ```bash
 make test
